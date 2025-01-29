@@ -1,0 +1,13 @@
+User: Gapilesh Pirabaharan
+
+Device: Acer Nitro 5 - AN517-54
+
+
+Touchpad
+Problem: The touchpad works in delay sometimes and there is no specific known occation for that to happen.
+Noted occasion is, when The charger is connected, It acts in delay, or once the charge becomes full, it acts in delay.
+Reason: Possibly over power supply for the touch pad could cause this issue.
+Solution:
+• If delay occur during laptop’s on battery, Turn of the touch pad and turn it on again (Fn + F2 for my laptop)
+• If delay occur during laptop’s on charge, Try Turning off and turning on touchpad. If continues, Try putting the fans on full speed - Using NitroSense and during that, Turn off and turn on the Touchpad. Not checked fully, for how long this will work.
+• If charging is full, it will act with the same delay. Try with the second step. It didnt work for me except for the first minute, then the delay continues. So, Remove the charger once the laptop is fully charged. 
